@@ -18,7 +18,7 @@
 - 🌎 Publishing open source
 
 ### Where I've Been
-- 🪖 USMC (Intel, IT Admin)
+- ⚔️ USMC (Intel, IT Admin)
 - 🧪 MIT Lincoln Laboratory (Lead Cybersecurity Analyst, Space Systems and Technology Research Division 🛰️)
 - 🏧 [REDACTED] Big Bank 💰 | 🔴 Red Team Operator & Exploit Developer 
 - 🌐 SimSpace | Principal Content Architect & Instructor
