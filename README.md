@@ -7,8 +7,7 @@
 [![Cosmo](https://img.shields.io/static/v1?label=COSMO&message=SLEEPING&color=GREEN&style=for-the-badge)](https://huskyhacks.dev/)
 
 ## Mission
-
-[img](../misc/mission.png)
+![image](https://user-images.githubusercontent.com/57866415/134733492-e8037eb9-9536-491b-adeb-bbd484ea2d16.png)
 
 ### Things that I love:
 - 📕 Teaching
