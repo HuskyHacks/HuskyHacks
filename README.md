@@ -61,6 +61,11 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 ### CVEs 🐛
 - [CVE-2021-38699](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS)
 
+---
+
+![HuskyHacks GitHub stats](https://github-readme-stats.vercel.app/api?username=huskyhacks&count_private=true&theme=dracula)
+
+
 ### Connect with me:
 
 [<img align="left" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
