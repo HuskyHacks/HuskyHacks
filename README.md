@@ -54,9 +54,9 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 
 
 ### My Projects 🚧
-- [O-Course](https://github.com/HuskyHacks/O-Course)
-- [ShadowSteal](https://github.com/HuskyHacks/ShadowSteal)
-- [Blue-Jupyter](https://github.com/HuskyHacks/blue-jupyter)
+- 🏃 [O-Course](https://github.com/HuskyHacks/O-Course)
+- 👥[ShadowSteal](https://github.com/HuskyHacks/ShadowSteal)
+- 🪐[Blue-Jupyter](https://github.com/HuskyHacks/blue-jupyter)
 
 
 ### CVEs 🐛
