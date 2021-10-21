@@ -3,7 +3,7 @@
 
 ---
 
-[![pmat](https://img.shields.io/badge/PMAT-COMING%20SOON!-orange?style=for-the-badge)](https://academy.tcm-sec.com)
+[![pmat](https://img.shields.io/badge/PMAT-COMING%20SOON!-purple?style=for-the-badge)](https://github.com/HuskyHacks/PMAT-labs/blob/main/cosmo.jpeg)
 [![Website](https://img.shields.io/website?label=HuskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fhuskyhacks.dev)](https://huskyhacks.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HuskyHacksMK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHuskyHacksMK&screen_name=HuskyHacksMK)
 [![Cosmo](https://img.shields.io/static/v1?label=COSMO&message=SLEEPING&color=008080&style=for-the-badge)](https://huskyhacks.dev/)
