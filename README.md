@@ -47,14 +47,13 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 <code><img height="45" src="https://raw.githubusercontent.com/wiki/EmpireProject/Empire/Images/empire_logo.png"></code>
 <code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
-<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code>
+<code><img height="45" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/Ne0nd0g/merlin/master/docs/images/merlin.png"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
 </div>
-
 
 ### My Projects 🚧
 - 🏃 [O-Course](https://github.com/HuskyHacks/O-Course)
