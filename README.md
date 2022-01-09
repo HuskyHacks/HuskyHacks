@@ -60,6 +60,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 👥[ShadowSteal](https://github.com/HuskyHacks/ShadowSteal)
 - 🪐[Blue-Jupyter](https://github.com/HuskyHacks/blue-jupyter)
 - 🐞 [PMAT](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
+- 🐛 [MalAPIReader](https://github.com/HuskyHacks/MalAPIReader)
 
 
 ### CVEs 🐛
