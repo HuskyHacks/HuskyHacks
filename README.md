@@ -61,6 +61,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 🪐[Blue-Jupyter](https://github.com/HuskyHacks/blue-jupyter)
 - 🐞 [PMAT](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 - 🐛 [MalAPIReader](https://github.com/HuskyHacks/MalAPIReader)
+- 🦠 Malware Delivery via Notion: [LOTS Project: Notion.so](https://lots-project.com/site/2a2e6e6f74696f6e2e73697465) | [Original Tweet](https://twitter.com/HuskyHacksMK/status/1483239358329151491)
 
 
 ### CVEs 🐛
