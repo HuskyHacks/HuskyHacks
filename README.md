@@ -53,6 +53,8 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 <code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
+<code><img src="https://rizin.re/images/rizin.svg" height="45"></code>
+
 </div>
 
 ### My Projects 🚧
