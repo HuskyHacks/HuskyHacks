@@ -63,6 +63,10 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 🐛 [MalAPIReader](https://github.com/HuskyHacks/MalAPIReader)
 - 🦠 Malware Delivery via Notion: [LOTS Project: Notion.so](https://lots-project.com/site/2a2e6e6f74696f6e2e73697465) | [Original Tweet](https://twitter.com/HuskyHacksMK/status/1483239358329151491)
 
+### Talks 🎤
+- [VetSecCon 2020 - Husky vs WannaCry: A Crash Course in Malware RE, Oct 2022](https://youtu.be/u_dNBYViuGs)
+- [VetSecCon 2020 - Knowing The Way Broadly: The Craftsperson Mindset, Oct 2022](https://youtu.be/uXObkeSAsBQ)
+- [DEF CON 615 - The Crown: Exploratory Analysis of Nim Malware, Jan 25th 2022](https://github.com/HuskyHacks/the-crown-defcon615)
 
 ### CVEs 🐛
 - [CVE-2021-38699](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS)
