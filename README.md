@@ -69,7 +69,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 ### Talks 🎤
 - [VetSecCon 2020 - Husky vs WannaCry: A Crash Course in Malware RE, Oct 2022](https://youtu.be/u_dNBYViuGs)
 - [VetSecCon 2020 - Knowing The Way Broadly: The Craftsperson Mindset, Oct 2022](https://youtu.be/uXObkeSAsBQ)
-- [DEF CON 615 - The Crown: Exploratory Analysis of Nim Malware, Jan 25th 2022](https://github.com/HuskyHacks/the-crown-defcon615)
+- [DEF CON 615 - The Crown: Exploratory Analysis of Nim Malware, Jan 25th 2022](https://youtu.be/mCWzEh8gJuk) | [Github Repo for the talk](https://github.com/HuskyHacks/the-crown-defcon615)
 
 ### CVEs 🐛
 - [CVE-2021-38699](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS)
