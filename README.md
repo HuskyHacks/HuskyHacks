@@ -65,6 +65,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 🐞 [PMAT](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 - 🐛 [MalAPIReader](https://github.com/HuskyHacks/MalAPIReader)
 - 🦠 Malware Delivery via Notion - [LOTS Project: Notion.so](https://lots-project.com/site/2a2e6e6f74696f6e2e73697465) | [Original Tweet](https://twitter.com/HuskyHacksMK/status/1483239358329151491)
+- 🎯[OffensiveNotion](https://github.com/mttaggart/OffensiveNotion)
 
 ### Talks 🎤
 - [VetSecCon 2020 - Husky vs WannaCry: A Crash Course in Malware RE, Oct 2022](https://youtu.be/u_dNBYViuGs)
@@ -93,6 +94,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🎯 [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 - 👑 [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
 - 🔴 [Zero-Point Security Red Team Ops 2021 Update](https://huskyhacks.dev/2021/08/04/rto-2021/)
 - 💉 [DLL Hijacking & DLL Proxying An SNES Emulator](https://huskyhacks.dev/2021/08/29/dll-hijacking-dll-proxying-an-snes-emulator/)
