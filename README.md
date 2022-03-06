@@ -65,7 +65,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 🐞 [PMAT](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 - 🐛 [MalAPIReader](https://github.com/HuskyHacks/MalAPIReader)
 - 🦠 Malware Delivery via Notion - [LOTS Project: Notion.so](https://lots-project.com/site/2a2e6e6f74696f6e2e73697465) | [Original Tweet](https://twitter.com/HuskyHacksMK/status/1483239358329151491)
-- 🎯[OffensiveNotion](https://github.com/mttaggart/OffensiveNotion)
+- 🎯 [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) | 🦚 [OffensiveNotion Tweet](https://twitter.com/HuskyHacksMK/status/1498025202151608322)
 
 ### Talks 🎤
 - [VetSecCon 2020 - Husky vs WannaCry: A Crash Course in Malware RE, Oct 2022](https://youtu.be/u_dNBYViuGs)
