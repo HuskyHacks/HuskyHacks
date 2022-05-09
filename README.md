@@ -97,6 +97,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 📡 [Red Team Infrastructure Done Right](https://notes.huskyhacks.dev/blog/red-team-infrastructure-done-right)
 - 🎯 [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 - 👑 [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
 - 🔴 [Zero-Point Security Red Team Ops 2021 Update](https://huskyhacks.dev/2021/08/04/rto-2021/)
