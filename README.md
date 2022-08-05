@@ -1,8 +1,6 @@
 <div align=center> 
   <h1> Hi! I'm Matt, aka HuskyHacks 👋 </h1> 
 
----
-
 [![pmat](https://img.shields.io/badge/PMAT-Available%20Now!-purple?style=for-the-badge)](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 [![Website](https://img.shields.io/website?label=HuskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fhuskyhacks.dev)](https://huskyhacks.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HuskyHacksMK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHuskyHacksMK&screen_name=HuskyHacksMK)
