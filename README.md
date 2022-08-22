@@ -9,7 +9,7 @@
 
 </div>
 
-## Mission
+### Mission
 ![image](https://user-images.githubusercontent.com/57866415/134733492-e8037eb9-9536-491b-adeb-bbd484ea2d16.png)
 
 ### Things that I love:
