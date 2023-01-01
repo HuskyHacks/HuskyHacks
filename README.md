@@ -26,6 +26,7 @@
 - 🧪 MIT Lincoln Laboratory (Lead Cybersecurity Analyst, Space Systems and Technology Research Division 🛰️)
 - 🏧 [REDACTED] Big Bank 💰 | 🔴 Red Team Operator & Exploit Developer 
 - 🌐 SimSpace | Principal Security Researcher & Staff Red Team Engineer
+- 🏫 Co-founder @ [The Taggart Institue](https://taggartinstitute.org/)
 - 🏫 Northeastern University | 🅝🅔🅤 
 - 🎓 Rochester Institute of Technology | 🆁🅸🆃
 
