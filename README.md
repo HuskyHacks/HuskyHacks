@@ -25,7 +25,7 @@
 - ⚔️ USMC (Intel, IT Admin)
 - 🧪 MIT Lincoln Laboratory (Lead Cybersecurity Analyst, Space Systems and Technology Research Division 🛰️)
 - 🏧 [REDACTED] Big Bank 💰 | 🔴 Red Team Operator & Exploit Developer 
-- 🌐 SimSpace | Principal Content Architect & Instructor
+- 🌐 SimSpace | Principal Security Researcher & Staff Red Team Engineer
 - 🏫 Northeastern University | 🅝🅔🅤 
 - 🎓 Rochester Institute of Technology | 🆁🅸🆃
 
