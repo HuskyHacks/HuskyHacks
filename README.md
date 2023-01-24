@@ -3,7 +3,6 @@
 
 [![pmat](https://img.shields.io/badge/PMAT-Available%20Now!-purple?style=for-the-badge)](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 [![Website](https://img.shields.io/website?label=HuskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fhuskyhacks.dev)](https://huskyhacks.dev/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HuskyHacksMK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHuskyHacksMK&screen_name=HuskyHacksMK)
 [![Cosmo](https://img.shields.io/static/v1?label=COSMO&message=SLEEPING&color=008080&style=for-the-badge)](https://github.com/HuskyHacks/PMAT-labs/blob/main/cosmo.jpeg)
 [![Notes](https://img.shields.io/website?label=notes.huskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fnotes.huskyhacks.dev)](https://notes.huskyhacks.dev/)
 
