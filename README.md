@@ -15,7 +15,7 @@
 - 📕 Teaching
 - 🖥️ Hacking
 - 📕🖥️ Teaching Hacking
-- 🐈‍⬛ My cat Cosmo 
+- 🐈‍⬛ My cats, Cosmo and Kiki
 - 📒 Learning stuff
 - 🌎 Publishing open source
 - 🦇 [The Dracula Theme](https://draculatheme.com/)
