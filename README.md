@@ -55,6 +55,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 <code><img height="45" src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
 <code><img height="45" src="https://rizin.re/images/rizin.svg" height="45"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go logo"></code>
 
 </div>
 
