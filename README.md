@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/website?label=HuskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fhuskyhacks.dev)](https://huskyhacks.dev/)
 [![Cosmo](https://img.shields.io/static/v1?label=COSMO&message=SLEEPING&color=008080&style=for-the-badge)](https://github.com/HuskyHacks/PMAT-labs/blob/main/cosmo.jpeg)
 [![Notes](https://img.shields.io/website?label=notes.huskyHacks.dev&style=for-the-badge&url=https%3A%2F%2Fnotes.huskyhacks.dev)](https://notes.huskyhacks.dev/)
+[![Notes](https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@huskyhacks)]([https://notes.huskyhacks.dev/](https://www.youtube.com/@huskyhacks))
 
 </div>
 
