@@ -69,7 +69,7 @@ OSCP | ECPPT | ECPTX | CRTP | CRTO
 - 🎯 [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) | 🦚 [OffensiveNotion Tweet](https://twitter.com/HuskyHacksMK/status/1498025202151608322)
 - 🦀 Experimentation in Rust's Offensive Applications >  [Rusty Token Manipulation](https://github.com/HuskyHacks/RustyTokenManipulation) | [Rusty Process Injectors](https://github.com/HuskyHacks/RustyProcessInjectors) | PRs submitted to [OffensiveRust](https://github.com/trickster0/OffensiveRust)
 - 👑 MSFVenom Nim shellcode generation support | [Merged PR](https://github.com/rapid7/metasploit-framework/pull/16973)
-- [SharpTokenFinder](https://github.com/HuskyHacks/SharpTokenFinder)
+- 🟡 [SharpTokenFinder](https://github.com/HuskyHacks/SharpTokenFinder)
 
 ### Talks 🎤
 - [VetSecCon 2020 - Husky vs WannaCry: A Crash Course in Malware RE, Oct 2022](https://youtu.be/u_dNBYViuGs)
